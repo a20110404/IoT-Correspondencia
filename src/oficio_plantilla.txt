@@ -1,0 +1,31 @@
+Guadalajara, Jalisco a {fecha_actual}
+
+A quien corresponda:
+
+Por medio de la presente se le notifica a {nombre} {apellido1} {apellido2},
+quien desempeña el cargo de {cargo}
+en la empresa {empresa}, con domicilio en:
+{calle} #{numeroExt}, int. {numeroInt}, colonia {colonia},
+municipio de {municipio}, estado de {estado}, C.P. {codigoPostal}.
+
+El presente documento tiene como finalidad confirmar la información proporcionada por el/la interesado/a,
+así como respaldar su vínculo laboral con nuestra empresa. Este documento puede ser utilizado para
+trámites oficiales o personales que así lo requieran.
+
+Datos de contacto:
+- Teléfono: {telefono}
+- Correo electrónico: {correoElectronico}
+- Fecha de nacimiento: {fechaNacimiento} (Edad: {edad} años)
+
+En caso de requerir información adicional o verificar los datos aquí contenidos, no dude en contactarnos
+a través de los medios proporcionados.
+
+Sin más por el momento, me despido enviando un cordial saludo.
+
+Atentamente,
+
+______________________
+Departamento de Recursos Humanos
+Empresa XYZ
+Teléfono: 01-800-123-4567
+Correo: contacto@empresa.xyz
